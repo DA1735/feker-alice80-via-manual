@@ -63,7 +63,7 @@ They work regardless of VIA configuration.
 |---|---|
 | Esc | ` 入力 |
 | Esc + Shift | ~ 入力 |
-| \| | LED色の切り替え |
+| \|\\ | LED色の切り替え |
 | Del | LEDエフェクトの切り替え |
 | L | LEDのON/OFF |
 | M | 消音 |
@@ -84,7 +84,7 @@ They work regardless of VIA configuration.
 |---|---|
 | Esc | Input ` |
 | Esc + Shift | Input ~ |
-| \|  | Cycle LED colors |
+| \|\\  | Cycle LED colors |
 | Del | Cycle LED effects |
 | L | Toggle LED on/off |
 | M | Mute audio |
